@@ -1,2 +1,3 @@
 # AI-ML-Projects.
-Every AI and ML projects
+Every AI and ML project
+
